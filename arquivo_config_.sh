@@ -38,4 +38,4 @@ chmod 770 /vendas
 chmod 770 /secretaria
 chmod 777 /publico
 
-echo "Fim....."
+echo "Fim"
